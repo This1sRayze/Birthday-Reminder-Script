@@ -7,8 +7,11 @@ This Python script helps to manage and automate birthday reminders for colleague
 ## Features
 
 1.Converts date strings into Python date objects.
+
 2.Checks for upcoming birthdays within a given number of days.
+
 3.Adjusts birthdays that fall on weekends to the next Monday.
+
 4.Handles past birthdays and moves them to the next year if needed.
 
 ## Usage
@@ -44,5 +47,7 @@ If today is March 20, 2024, the output may look like this:
 ## Notes
 
 1.Ensure dates are formatted correctly in YYYY.M.D format.
+
 2.If a birthday has already passed this year, it will be moved to the next year.
+
 3.Birthdays falling on weekends are shifted to the next Monday.
