@@ -1,8 +1,5 @@
 # Birthday Reminder Script
 
-
-## Overview
-
 This Python script helps to manage and automate birthday reminders for colleagues. It takes a list of users with their birth dates and returns a list of upcoming birthdays within a specified number of days. If a birthday falls on a weekend, the script adjusts the date to the next working Monday.
 
 
